@@ -1,0 +1,22 @@
+[
+  { "id": 1,  "nombre": "Laptop HP Pavilion 15",          "precio": 14500, "imagen": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8" },
+  { "id": 2,  "nombre": "iPhone 14 Pro",                  "precio": 23999, "imagen": "https://images.unsplash.com/photo-1678656304373-3c00d54625f9" },
+  { "id": 3,  "nombre": "Audífonos Sony WH-1000XM5",      "precio": 6999,  "imagen": "https://images.unsplash.com/photo-1618365908648-e71bd5716cba" },
+  { "id": 4,  "nombre": "Reloj inteligente Samsung Watch", "precio": 4999,  "imagen": "https://images.unsplash.com/photo-1617042375876-6be9eb3b1e2a" },
+  { "id": 5,  "nombre": "Teclado mecánico RGB",            "precio": 1499,  "imagen": "https://images.unsplash.com/photo-1616628182504-b6c2b67b8a39" },
+  { "id": 6,  "nombre": "Mouse gamer Logitech",            "precio": 899,   "imagen": "https://images.unsplash.com/photo-1587202372775-98927aaf0d9b" },
+  { "id": 7,  "nombre": "Monitor Samsung 27 pulgadas",     "precio": 3799,  "imagen": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04" },
+  { "id": 8,  "nombre": "Silla gamer ergonómica",          "precio": 4299,  "imagen": "https://images.unsplash.com/photo-1593642532400-2682810df593" },
+  { "id": 9,  "nombre": "Cámara Canon EOS 90D",            "precio": 22499, "imagen": "https://images.unsplash.com/photo-1519183071298-a2962be90b8e" },
+  { "id": 10, "nombre": "Smart TV LG 55 pulgadas",         "precio": 11899, "imagen": "https://images.unsplash.com/photo-1606813902914-0c2d00c9c2e1" },
+  { "id": 11, "nombre": "Parlante JBL Charge 5",           "precio": 2999,  "imagen": "https://images.unsplash.com/photo-1585386959984-a4155224a1ab" },
+  { "id": 12, "nombre": "Consola PlayStation 5",           "precio": 13999, "imagen": "https://images.unsplash.com/photo-1606813903023-0a218b9f9c5f" },
+  { "id": 13, "nombre": "Control Xbox Series X",           "precio": 1899,  "imagen": "https://images.unsplash.com/photo-1616004675743-9b3e93e92b2a" },
+  { "id": 14, "nombre": "Tablet iPad Air",                 "precio": 13499, "imagen": "https://images.unsplash.com/photo-1612831455543-8373b7e3f55a" },
+  { "id": 15, "nombre": "Cafetera Nespresso",              "precio": 2599,  "imagen": "https://images.unsplash.com/photo-1524721696987-b9527df9e512" },
+  { "id": 16, "nombre": "Refrigerador Samsung Inverter",   "precio": 15499, "imagen": "https://images.unsplash.com/photo-1622202221877-32e6cbb2b9f5" },
+  { "id": 17, "nombre": "Microondas Panasonic 30L",        "precio": 2499,  "imagen": "https://images.unsplash.com/photo-1616628182481-893b1a3cacf7" },
+  { "id": 18, "nombre": "Bocina Alexa Echo Dot",           "precio": 1599,  "imagen": "https://images.unsplash.com/photo-1606813903051-9e3ecb0b7e8b" },
+  { "id": 19, "nombre": "Aspiradora Dyson V11",            "precio": 11299, "imagen": "https://images.unsplash.com/photo-1590080875831-9b1f6d59f6b6" },
+  { "id": 20, "nombre": "Lámpara LED de escritorio",        "precio": 499,   "imagen": "https://images.unsplash.com/photo-1578898887932-2bde0c0df4a4" }
+]
